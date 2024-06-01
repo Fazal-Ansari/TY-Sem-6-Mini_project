@@ -41,4 +41,7 @@ This project utilizes deep learning models to classify whether an input image co
 - **Output**: The interface displays the classification label (real or fake) along with an explainability visualization highlighting the regions contributing to the model's prediction.
 - **Saving**: Flagged images are saved in separate directories (`/real_images` and `/fake_images`) based on the prediction.
 - **Confidence Scores**: Confidence scores for both real and fake predictions are displayed.
+#### Interface :
+![image](https://github.com/Fazal-Ansari/TY-Sem-6-Mini_project/assets/106878663/e8bcc506-6cbc-4680-893c-ed729f60017e)
+
 
