@@ -1,7 +1,5 @@
 # TY-Sem-6-Mini_project
-To create GitHub documentation for your project, you can follow these steps:
-
-### Project Title: Real vs Fake Face Detection with Explainability
+Face Detection 
 
 #### Project Description:
 This project utilizes deep learning models to classify whether an input image contains a real or fake face. It also provides explainability by highlighting areas of the image that contribute most to the model's prediction.
@@ -44,11 +42,3 @@ This project utilizes deep learning models to classify whether an input image co
 - **Saving**: Flagged images are saved in separate directories (`/real_images` and `/fake_images`) based on the prediction.
 - **Confidence Scores**: Confidence scores for both real and fake predictions are displayed.
 
-#### Emojis:
-Include emojis in the README.md file to make it visually appealing and engaging. For example:
-- ⚙️ for technologies used
-- 📁 for directory structure
-- 🚀 for instructions
-- ℹ️ for documentation
-
-Feel free to customize and expand this documentation according to your project's specific details and requirements!
