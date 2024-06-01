@@ -42,10 +42,10 @@ This project utilizes deep learning models to classify whether an input image co
 - **Saving**: Flagged images are saved in separate directories (`/real_images` and `/fake_images`) based on the prediction.
 - **Confidence Scores**: Confidence scores for both real and fake predictions are displayed.
 #### Interface :
-                ####Input Image:
+                
 ![image](https://github.com/Fazal-Ansari/TY-Sem-6-Mini_project/assets/106878663/9ecf7ba8-2df4-4883-9cb6-51d52164b786)
 
 ![image](https://github.com/Fazal-Ansari/TY-Sem-6-Mini_project/assets/106878663/8eb4d8e0-fb8b-40dc-ad81-7cebfffb0ffe)
-        ####Result
+
 
 
