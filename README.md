@@ -1,5 +1,5 @@
 # TY-Sem-6-Mini_project
-Face Detection 
+####DeepFake Face Detection 
 
 #### Project Description:
 This project utilizes deep learning models to classify whether an input image contains a real or fake face. It also provides explainability by highlighting areas of the image that contribute most to the model's prediction.
